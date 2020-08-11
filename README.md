@@ -1,2 +1,9 @@
 # task-app
-NodeJS + MongoDB
+backend rest api NodeJS + MongoDB
+
+- mongodb,  NoSQL db
+- moongoose, nice ORM for mongodb
+- managing users and their tasks (CRUD operations)
+- validator, validating form data
+- bcryptjs, for hashing passwords
+- JWT (JSON web tokens), for user authentication tokens
