@@ -7,3 +7,5 @@ backend rest api NodeJS + MongoDB
 - validator, validating form data
 - bcryptjs, for hashing passwords
 - JWT (JSON web tokens), for user authentication tokens
+- express routes behind custom auth middleware
+- sorting, pagination and filtering for tasks
