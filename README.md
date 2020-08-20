@@ -9,3 +9,4 @@ backend rest api NodeJS + MongoDB
 - JWT (JSON web tokens), for user authentication tokens
 - express routes behind custom auth middleware
 - sorting, pagination and filtering for tasks
+- file uploads (multer), validation, image processing
