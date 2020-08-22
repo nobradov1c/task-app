@@ -10,3 +10,4 @@ backend rest api NodeJS + MongoDB
 - express routes behind custom auth middleware
 - sorting, pagination and filtering for tasks
 - file uploads (multer), validation (multer), image processing (sharp)
+- emails (SENDGRID)
